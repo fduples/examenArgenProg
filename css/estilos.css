@@ -29,7 +29,7 @@ Asimiso dentro de cada tipo se ordenan alfabeticamente
         color: #505050;
         background: rgba(255, 255, 255, 0.973);
         overflow-x: hidden;
-        background-image: url("/imagenes/encabezado.gif");
+        background-image: url("imagenes/encabezado.gif");
         background-repeat: no-repeat;
         background-size: cover;
     }
