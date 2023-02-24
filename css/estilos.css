@@ -29,7 +29,7 @@ Asimiso dentro de cada tipo se ordenan alfabeticamente
         color: #505050;
         background: rgba(255, 255, 255, 0.973);
         overflow-x: hidden;
-        background-image: url("imagenes/encabezado.gif");
+        background-image: url("/imagenes/encabezado.gif");
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -47,6 +47,7 @@ utilizando el framework css de W3: W3.css le asigno valor de botón con un hober
         word-spacing: -.1em;
         letter-spacing: -.05em;
         transition: .2s all ease;
+        margin-top: 20px;
         margin-left: 10px;
         margin-bottom: 15px;
         cursor: pointer
